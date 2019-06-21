@@ -11,7 +11,7 @@ function array(ar){
   console.log(ascending); 
   console.log(descending);
 
-  //If you console log - It is gonna have the same output because , IT is changing the value - which is refrencing the array ar.
+  //If you console log - It is gonna have the same output because , IT is changing the value - which is refrencing the array (ar) , which is passed in as argument.
 
 }
 
